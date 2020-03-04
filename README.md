@@ -1,7 +1,7 @@
 # Visual-Explaination-from-Deep-Neural-Networks
 This Repository contains the implementation of visualization techniques for Deep Learning Neural Networks. The visualization techniques are 
-+ [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](grad-cam)
-+ [CAM: Learning Deep Features for Discriminative Localization](cam)
++ [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](#grad-cam)
++ [CAM: Learning Deep Features for Discriminative Localization](#cam)
 
 ## Code Implementation and Results:
 
