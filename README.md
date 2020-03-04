@@ -24,7 +24,7 @@ This Repository contains the implementation of visualization techniques for Deep
 #### Synthetic Data:
 
 <p align="center">
-    <img src="https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Read%20Me%20Images/mnist.png">
+    <img src="https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Read%20Me%20Images/synthetic.png">
 </p>
 
 #### BRATS-2017 Data:
@@ -36,5 +36,5 @@ This Repository contains the implementation of visualization techniques for Deep
 #### Tuberculosis Data:
 
 <p align="center">
-    <img src="https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Read%20Me%20Images/TB.png" width="500px" height="700px">
+    <img src="https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Read%20Me%20Images/TB.png">
 </p>
