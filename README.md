@@ -30,7 +30,7 @@ This Repository contains the implementation of visualization techniques for Deep
 #### BRATS-2017 Data:
 
 <p align="center">
-    <img src="https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Read%20Me%20Images/brats.png" width="500px" height="500px">
+    <img src="https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Read%20Me%20Images/brats.png">
 </p>
 
 #### Tuberculosis Data:
