@@ -18,13 +18,13 @@ This Repository contains the implementation of visualization techniques for Deep
 #### Bounding-Boxes with GRAD-CAM:
 The following notebook creates BoundaryBoxes (Rectangle and Polygon) using Grad-CAM Heatmap output.
 
-[Code: Google Colab Notebook](https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Creation%20of%20BoundingBoxes%20and%20Poygon%20using%20a%20Grad-CAM%20Heatmap/Implementation.ipynb)
+[Code: Google Colab Notebook](https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Creation%20of%20BoundingBoxes%20and%20Polygon%20using%20a%20Grad-CAM%20Heatmap/Implementation.ipynb)
 
 #### CAM:
 
 [Paper](https://arxiv.org/abs/1512.04150) 
 
-[Code: Google Colab Notebook](https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/Grad-CAM%20Approach/Grad-CAM-implementation.ipynb)
+[Code: Google Colab Notebook](https://github.com/zeeshannisar/Visual-Explaination-from-Deep-Neural-Networks/blob/master/CAM%20Approach/CAM-implementation.ipynb)
 
 
 
